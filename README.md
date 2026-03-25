@@ -49,11 +49,7 @@ python test.py -mode sgdet -datasize large -data_path $DATAPATH -model_path $MOD
 ```
 
 ## Acknowledgments 
-We would like to acknowledge the authors of the following repositories from where we borrowed some code
-+ [Yang's repository](https://github.com/jwyang/faster-rcnn.pytorch)
-+ [Zellers' repository](https://github.com/rowanz/neural-motifs) 
-+ [Cong's repository](https://github.com/yrcong/STTran.git)
-+ [sayaknag's repository](https://github.com/sayaknag/unbiasedSGG.git)
+Thanks [STTran](https://github.com/yrcong/STTran.git), [TEMPURA](https://github.com/sayaknag/unbiasedSGG.git), [Faster-RCNN](https://github.com/jwyang/faster-rcnn.pytorch), [STANet](https://github.com/guotaowang/STANet.git) libraries for helping us to quickly implement our ideas.
 
 ## Citation
 If our work is helpful for your research, please cite our publication:
